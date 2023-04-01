@@ -1,6 +1,6 @@
 __DESCRIZIONE__
 
-Questo tool è un auto writer che scriverà cosa vorrai tu in tutte le applicazioni. Per scrivere un messaggio per esempio "ciao, questo messaggio e fatto da un bot" ci impiegerà circa 1/2 secondi, senza che tu toccherai nulla all'infinito ( fin quando non lo stoppi )
+Questo tool è un auto writer che scriverà cosa vorrai tu in tutte le applicazioni. Per scrivere un messaggio per esempio "ciao, questo messaggio e fatto da un bot" ci impiegerà circa 1/2 secondi, senza che tu debba toccare nulla all'infinito ( fin quando non lo stoppi )
 
 __COSA INSTALLARE__
 
